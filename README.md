@@ -1,11 +1,13 @@
 # Micah Sandusky
 
-## About
-I am an engineer, scientific modeler, and CEO of [M3 Works](m3works.io).
-M3 Works are the architects of modern iSnobal, and in that role I focus
-on developing the next generation of physically based snow-water resource tools.
-Through that mission, I also support a number of opensource code-sets for
-the cryosphere and geoscience community.
+## About me
 
-More info on M3 Works and iSnobal can be 
-found [here](https://m3works.io/#/why-we-chose-isnobal).
+ ❄ Architect of modern iSnobal with [M3 Works](https://m3works.io/#/why-we-chose-isnobal)
+ 🏔 Operational snow modeling through the Western US
+ 🛠 Supporting opensource tools in geoscience
+
+## Opensource tools
+- [metloom](https://github.com/M3Works/metloom)
+- [snowexsql](https://github.com/snowex/snowexsql)
+- [metevents](https://github.com/M3Works/metevents)
+- [insitupy](https://github.com/M3Works/insitupy)
